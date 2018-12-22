@@ -5,14 +5,12 @@
       <change afterPath="$PROJECT_DIR$/../3-how-JS-works/starter/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../4-DOM-pig-game/starter/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../5-advanced-JS/starter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3-how-JS-works/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../3-how-JS-works/starter/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../4-DOM-pig-game/starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../4-DOM-pig-game/starter/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../4-DOM-pig-game/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../4-DOM-pig-game/starter/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../4-DOM-pig-game/starter/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../4-DOM-pig-game/starter/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../5-advanced-JS/final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../5-advanced-JS/final/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../5-advanced-JS/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../5-advanced-JS/starter/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/starter/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/starter/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+            <state relative-caret-position="391">
+              <caret line="260" lean-forward="true" selection-start-line="260" selection-end-line="260" />
             </state>
           </provider>
         </entry>
@@ -65,7 +63,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1340" />
@@ -130,18 +128,18 @@
       <workItem from="1545260945397" duration="12421000" />
       <workItem from="1545352732023" duration="9354000" />
       <workItem from="1545441407838" duration="243000" />
-      <workItem from="1545441796931" duration="2968000" />
+      <workItem from="1545441796931" duration="7495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43306000" />
+    <option name="totallyTimeSpent" value="47833000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24289985" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24289985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -205,8 +203,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/starter/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+        <state relative-caret-position="391">
+          <caret line="260" lean-forward="true" selection-start-line="260" selection-end-line="260" />
         </state>
       </provider>
     </entry>
