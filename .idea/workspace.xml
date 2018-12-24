@@ -29,17 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/starter/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="433">
-              <caret line="275" column="46" lean-forward="true" selection-start-line="275" selection-start-column="46" selection-end-line="275" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/starter/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
-              <caret line="95" column="54" selection-start-line="95" selection-start-column="54" selection-end-line="95" selection-end-column="54" />
+            <state relative-caret-position="318">
+              <caret line="262" column="35" lean-forward="true" selection-start-line="262" selection-start-column="35" selection-end-line="262" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -53,7 +44,21 @@
       <find>test</find>
       <find>NaN</find>
       <find>budge</find>
+      <find>var node</find>
+      <find>fields</find>
+      <find>updatePercentages</find>
+      <find>getPercentages</find>
+      <find>displayPer</find>
+      <find>item__per</find>
+      <find>item__</find>
+      <find>expensesPercLabel</find>
+      <find>displayPercentages</find>
+      <find>percentages</find>
+      <find>calculatePercentages</find>
       <find>calcPercentage</find>
+      <find>calculateB</find>
+      <find>Math.round</find>
+      <find>UICTRl</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -132,12 +137,14 @@
       <workItem from="1545352732023" duration="9354000" />
       <workItem from="1545441407838" duration="243000" />
       <workItem from="1545441796931" duration="7781000" />
-      <workItem from="1545526696221" duration="7572000" />
+      <workItem from="1545526696221" duration="8275000" />
+      <workItem from="1545608273757" duration="8372000" />
+      <workItem from="1545627717323" duration="1225000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55691000" />
+    <option name="totallyTimeSpent" value="65991000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -191,13 +198,6 @@
     <entry file="file://$PROJECT_DIR$/starter/back.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/final/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="406" column="8" lean-forward="true" selection-start-line="406" selection-start-column="8" selection-end-line="406" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -205,17 +205,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/starter/app.js">
+    <entry file="file://$PROJECT_DIR$/starter/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="275" column="46" lean-forward="true" selection-start-line="275" selection-start-column="46" selection-end-line="275" selection-end-column="46" />
+        <state relative-caret-position="289">
+          <caret line="95" column="65" lean-forward="true" selection-start-line="95" selection-start-column="62" selection-end-line="95" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/starter/index.html">
+    <entry file="file://$PROJECT_DIR$/final/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" column="54" selection-start-line="95" selection-start-column="54" selection-end-line="95" selection-end-column="54" />
+        <state relative-caret-position="178">
+          <caret line="108" column="53" selection-start-line="108" selection-start-column="44" selection-end-line="108" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/final/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="106" column="18" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/starter/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="262" column="35" lean-forward="true" selection-start-line="262" selection-start-column="35" selection-end-line="262" selection-end-column="35" />
         </state>
       </provider>
     </entry>
